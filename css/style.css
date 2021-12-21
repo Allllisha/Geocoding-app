@@ -1,0 +1,17 @@
+/* TODO: Put your CSS code in here */
+
+#map{
+  margin-right: 800px;
+}
+
+.mapboxgl-canvas {
+  margin-right:50px;
+}
+
+body {
+  background-color: #2E4756;
+}
+
+p{
+ color:white;
+};
